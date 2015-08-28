@@ -1,0 +1,245 @@
+%!Adobe-FontList 1.16
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:275308
+FileModTime:1437677872
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Adobe Arabic
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMingStd-Light
+FamilyName:Adobe Ming Std
+StyleName:L
+FullName:Adobe Ming Std L
+MenuName:Adobe Ming Std L
+StyleBits:0
+FamilyNameNative:Adobe 明體 Std
+StyleNameNative:L
+FullNameNative:Adobe 明體 Std L
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\AdobeMingStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:10173776
+FileModTime:1437677872
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Ming Std L
+NameArray:2,Mac,4,Adobe 明體 Std L
+NameArray:2,Win,1,Adobe 明體 Std L
+NameArray:2,Win,16,Adobe 明體 Std
+NameArray:0,Win,1,Adobe Ming Std L
+NameArray:0,Win,16,Adobe Ming Std
+NameArray:2,Win,1,Adobe 明體 Std L
+NameArray:2,Win,16,Adobe 明體 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMyungjoStd-Medium
+FamilyName:Adobe Myungjo Std
+StyleName:M
+FullName:Adobe Myungjo Std M
+MenuName:Adobe Myungjo Std M
+StyleBits:0
+FamilyNameNative:Adobe 명조 Std
+StyleNameNative:M
+FullNameNative:Adobe 명조 Std M
+WritingScript:Korean
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\AdobeMyungjoStd-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:4103196
+FileModTime:1437677872
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Myungjo Std M
+NameArray:3,Mac,4,Adobe 명조 Std M
+NameArray:0,Win,1,Adobe Myungjo Std M
+NameArray:0,Win,16,Adobe Myungjo Std
+NameArray:3,Win,1,Adobe 명조 Std M
+NameArray:3,Win,16,Adobe 명조 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeSongStd-Light
+FamilyName:Adobe Song Std
+StyleName:L
+FullName:Adobe Song Std L
+MenuName:Adobe Song Std L
+StyleBits:0
+FamilyNameNative:Adobe 宋体 Std
+StyleNameNative:L
+FullNameNative:Adobe 宋体 Std L
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\AdobeSongStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:15589236
+FileModTime:1437677874
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Song Std L
+NameArray:25,Mac,4,Adobe 宋体 Std L
+NameArray:0,Win,1,Adobe Song Std L
+NameArray:0,Win,16,Adobe Song Std
+NameArray:25,Win,1,Adobe 宋体 Std L
+NameArray:25,Win,16,Adobe 宋体 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Regular
+FamilyName:Kozuka Gothic Pr6N
+StyleName:R
+FullName:Kozuka Gothic Pr6N R
+MenuName:Kozuka Gothic Pr6N R
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:R
+FullNameNative:小塚ゴシック Pr6N R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\KozGoPr6N-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:5434260
+FileModTime:1437677874
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N R
+NameArray:1,Mac,4,小塚ゴシック Pr6N R
+NameArray:0,Win,1,Kozuka Gothic Pr6N R
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N R
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-Regular
+FamilyName:Myriad Hebrew
+StyleName:Regular
+FullName:Myriad Hebrew
+MenuName:Myriad Hebrew
+StyleBits:0
+FamilyNameNative:Myriad עברית
+StyleNameNative:Regular
+FullNameNative:Myriad עברית Regular
+WritingScript:Hebrew
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\MyriadHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:79788
+FileModTime:1437677874
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Myriad Hebrew Regular
+NameArray:0,Mac,4,Myriad Hebrew
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96764
+FileModTime:1437677874
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:AdobeSansMM
+NumMMAxes:2
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\ZX______.MMM
+FileLength:7248
+FileModTime:1432870160
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeSansMM
+FamilyName:Adobe Sans MM
+StyleName:Regular
+FullName:Adobe Sans MM
+MenuName:AdobeSanMM
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\ZX______.PFB
+DataFormat:Plain
+MMAxisName:Weight
+MMAxisName:Width
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:75573
+FileModTime:1432870160
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:AdobeSansMM
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CC 2015\Support Files\Required\Fonts\\ZX______.PFM
+FileLength:683
+FileModTime:1432870160
+%EndFont
+
