@@ -1,0 +1,101 @@
+/directionHandleMarkType 10
+/snappingTolerance 2
+/constrainPathDragging 0
+/selectBehind 1
+/snapToPoint 1
+/showDirectionHandles 0
+/hitShapeOnPreview 1
+/plugin {
+	/FileClipboard {
+		/linkoptions 2
+	}
+}
+/policyForPreservingCorners 2
+/doubleClickToIsolate 1
+/fileFormatGetFile {
+	/ConvertedInFilename 1
+}
+/artNamesAreXMLIDs 0
+/antialias {
+	/image 1
+	/text 1
+	/graphic 1
+}
+/constrain {
+	/sin 0.0
+	/cos 1.0
+	/angle 0.0
+}
+/cursorKeyLength 1.0
+/selectSameTintPercentage 0
+/pen {
+	/disableAutoAddDelete 0
+}
+/cropMarkStyle 0
+/hitTypeShapeOnPreview 1
+/usePreciseCursors 0
+/scaleLineWeight 0
+/transformPatterns 0
+/uiOpenDocumentsAsTabs 1
+/uiBrightness 0.3300000131
+/uiPersistDrawers 1
+/showToolTips 1
+/liveCorners {
+	/cornerAngleLimit 177.0
+	/hideCornerWidgetBasedOnAngle 1
+}
+/selectionTolerance 3
+/ovalRadius 12.0
+/includeStrokeInBounds 0
+/unselectedAnchorMarkType 1
+/selectedAnchorMarkType 9
+/highlightAnchorOnMouseOver 1
+/snapomatic {
+	/Color {
+		/blue 0.2899976969
+		/green 1.0
+		/red 0.2899976969
+	}
+}
+/smartGuides {
+	/tolerance 4
+	/anglesCount -1
+	/showAlignmentGuides 1
+	/showReadouts 1
+	/showObjectHighlighting 1
+	/showToolGuides 0
+	/showConstructionGuides 0
+	/showLabels 1
+}
+/toolPen {
+	/rubberBandEnable 1
+}
+/uiScrollButtonPosition 0
+/numbersArePoints 0
+/strokeUnits 6
+/text {
+	/autoSizing 0
+	/doNonLatinInlineInput 1
+	/doFontLocking 1
+	/recentFontMenu {
+		/showNEntries 5
+	}
+	/riseIncrement 2.0
+	/sizeIncrement 2.0
+	/kernIncrement 20
+	/highlightMissingFonts 1
+	/fontMenu {
+		/showInFace 1
+		/faceSizeMultiplier 1.0
+	}
+	/asianunits 2
+	/units 6
+	/useEnglishFontNames 0
+}
+/rulerType 6
+/AI\ WorldReadiness\ Dict\ Key 0
+/hyphenation {
+	/language 16
+}
+/showAsianTextOptions 0
+/changed 0
